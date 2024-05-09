@@ -1,0 +1,10 @@
+81825449d5049312f1413b4ca1b2f91f13c971d1 Fix EyeFrameToShow regression from #4135
+51dc821002acc71aa23e599404a74eff6dd2f93f Fix #4129 , Warn of 32 bit SDK on path, also fix "where dotnet" command with multiple results
+4eeb8c97a41e358421e78752fbdbaf31f84ea1c2 Fix #4147
+6673f751436c1e51c83e0d328e14dc28d58b8134 Fix For Unix NewtonSoft Rename
+2f47ff29ad6876da72462af4b56ddaa3300727fb Terraria legacy beta branch support (#4178)
+f7ebd6dab272390000c9bd13ed745f51ab526b96 Fix typo in EnvironmentFix.sh causing TML crash with Vulkan on Mac (#4174)
+5af0d69cef72c9ec11dda07683a23cbe8eb8e868 Fix #4168 , fix forward slashes in save path on windows causing some issues
+892a5e95d83b77c57e4587fd7fa7e3a3c33822de Update UICommon.cs
+6f6df514621c8d970fb74da5cc5851ebde35df20 MErge Conflicts in UICommon.cs lines 155-159, 122-126, 135, 168
+51533274114a9867bc074150c8daac04b103f8bc Refactored mod creation to use a file tree of templates. (#4134)
