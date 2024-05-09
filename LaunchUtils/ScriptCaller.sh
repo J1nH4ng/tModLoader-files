@@ -70,7 +70,7 @@ else
 fi
 
 # Installing Dotnet
-run_script ./InstallDotNet.sh  2>&1 | tee -a "$LogFile"
+# run_script ./InstallDotNet.sh  2>&1 | tee -a "$LogFile"
 
 echo "Attempting Launch..."  2>&1 | tee -a "$LogFile"
 
